@@ -7,12 +7,12 @@ export default function($scope, todoFactory) {
 
     // $scope.todos = [
     // {
-    //     task: 'do dishes',
+    //     task: 'Prepare for technical leadership meeting',
     //     isCompleted: false,
     //     isEditing: false
     // },
     // {
-    //     task: 'walk the dog',
+    //     task: 'Update lecture notes for JS, week 2',
     //     isCompleted: true,
     //     isEditing: false
     // }
