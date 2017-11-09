@@ -9,7 +9,7 @@
     "build": "webpack --progress --colors --config webpack.prod.config.js"
   },
   "keywords": [],
-  "author": "Michael Cheng <cheng.c.mike@gmail.com> (http://michaelcheng.io)",
+  "author": "Alexander Adu-Sarkodie <aadusarkodie1@gmail.com> (http://www.goldhawk-college.com/istudio/tech-delivery.html)",
   "license": "ISC",
   "dependencies": {
     "angular": "^1.4.9",
