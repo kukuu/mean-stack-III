@@ -4,7 +4,7 @@
 ## Setup
 
 #### Option 1: Main Repository
-1. `git clone git@github.com:michaelcheng429/super-mean-stack.git`
+1. `git clone https://github.com/kukuu/mean-stack-III.git`
 2. `cd super-mean-stack`
 3. `npm install`
 
