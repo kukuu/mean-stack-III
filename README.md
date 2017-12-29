@@ -5,7 +5,7 @@
 
 #### Option 1: Main Repository
 1. `git clone https://github.com/kukuu/mean-stack-III.git`
-2. `cd super-mean-stack`
+2. `cd mean-stack-III`
 3. `npm install`
 
 #### Option 2: Yeoman Generator
